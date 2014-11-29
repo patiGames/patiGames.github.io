@@ -1,0 +1,32 @@
+
+/*
+ * Base structure
+ */
+
+}
+body {
+  color: #fff;
+  text-align: left;
+  font-family:  Helvetica, Arial, sans-serif;
+}
+
+#contact
+{
+	margin-top: 39px;
+	padding-right: 9%;
+}
+a, a:visited
+{ 
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #25c0b8; 
+	text-decoration: none;
+}
+
+#logo
+{
+	padding-left: 6%;
+}
