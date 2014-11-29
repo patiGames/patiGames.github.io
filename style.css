@@ -50,3 +50,13 @@ p{
 {
 	margin-top: 4%;
 }
+
+.screenshotThumbnail
+{
+	position: relative;
+	padding-right: 3px;
+	padding-left:3px;
+	margin-top: 6px;
+	max-width: 300px;
+	width:100%;
+}
