@@ -17,6 +17,7 @@ body {
 }
 a, a:visited
 { 
+	color: #333;
 	text-decoration: none;
 }
 
