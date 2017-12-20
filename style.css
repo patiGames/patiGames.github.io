@@ -42,6 +42,11 @@ a:hover
 	padding-left: 6%;
 }
 
+#logoFSE
+{
+	margin: auto;
+}
+
 p{
 	font-size: 1.2em;
 }
